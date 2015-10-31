@@ -1,0 +1,25 @@
+{
+  "name": "evetool",
+  "version": "0.0.1",
+  "description": "A tool for Eve Online",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superchair/evetool.git"
+  },
+  "author": "Alex Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superchair/evetool/issues"
+  },
+  "homepage": "https://github.com/superchair/evetool#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "sqlite3": "^3.1.0"
+  }
+}
